@@ -1,2 +1,2 @@
 # the_plane_problem
-we try to optimise the plane boarding process
+Modelling the different methods of boarding a plane
